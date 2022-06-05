@@ -1,0 +1,26 @@
+{
+  "name": "quan-ly-nguyen-lieu",
+  "version": "1.0.0",
+  "description": "Quản lý nhập xuất nguyên liệu dùng cho sản xuất sản phẩm nến thơm",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon --inspect app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thieuphongthai/quan-ly-nguyen-lieu.git"
+  },
+  "author": "hachitech",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thieuphongthai/quan-ly-nguyen-lieu/issues"
+  },
+  "homepage": "https://github.com/thieuphongthai/quan-ly-nguyen-lieu#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.16"
+  }
+}
